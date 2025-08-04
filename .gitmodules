@@ -1,0 +1,3 @@
+[submodule "Webapp-using-CI-CD-Automation"]
+	path = Webapp-using-CI-CD-Automation
+	url = https://github.com/kernal05/Webapp-using-CI-CD-Automation.git
