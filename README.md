@@ -3,7 +3,7 @@ A complete CI/CD pipeline demonstrating GitHub Actions workflow with Docker cont
 
 ## Features
 
-- Automated testing with Jest
+- Automated testing 
 - Docker containerization
 - CI/CD pipeline with GitHub Actions
 - Local Kubernetes deployment with Minikube
