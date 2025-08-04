@@ -41,7 +41,7 @@ jobs:
       uses: docker/build-push-action@v4
       with:
         push: true
-        tags: ${{ secrets.DOCKER_HUB_USERNAME }}/ci-cd-githubaction-docker:latest
+        tags: ${{ secrets.DOCKER_HUB_USERNAME }}//ci-cd-nodejs-webapp:latest 
 
   deploy:
     needs: build-and-push
