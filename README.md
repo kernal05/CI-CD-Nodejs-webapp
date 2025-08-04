@@ -90,13 +90,6 @@ minikube service ci-cd-githubaction-docker --url
 ### 7.
 ![alt text](ss-7.png)
 
-### 8.
-![alt text](ss-8.png)
-
-### 9.
-![alt text](ss-9.png)
 
 
-## Second Project is mention in Project-2 Branch in this Repository
-- Please check the branch
 
